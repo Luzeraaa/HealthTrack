@@ -1,0 +1,176 @@
+@charset "ISO-8859-1";
+
+
+.margin-top-dashboard{
+    margin-top:6%;
+}
+
+.margin-top-historico{
+    margin-top:3%;
+}
+
+form div input{
+    box-shadow: none!important;
+}
+
+footer{
+    margin-top: 10%;
+}
+
+.fonte-especial{
+    font-family: 'Pacifico', cursive;
+}
+
+.img-logo{
+    height: 350px;
+    width: 350px;
+}
+
+.icon-login{
+    height: 50px;
+    width: 50px;
+}
+
+.texto-especial{
+    font-family: 'Pacifico', cursive;
+    color: #dc3545!important;
+}
+
+.input-login{
+    border-bottom:1px solid #dc3545 ;
+    
+}
+
+.botao-login{
+    background-color: #dc3545;
+    color: white;
+}
+
+.cor-especial{
+    color: #dc3545;
+}
+
+.cor-especial-bg{
+    background-color: #dc3545;
+}
+
+.timer{
+    width: 200px;
+    height: 150px;
+}
+
+.card-dashboard{
+    height: 180px;
+    width: 180px;
+
+}
+
+.card-hist-imagem{
+    height: 50px;
+    width: 50px;
+}
+
+.row{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+.img-perfil{
+	width: 200px;
+	height: 200px;
+}
+
+.margin-top{
+	margin-top:10%;
+}
+
+.card-border{
+	border:1px solid;
+	border-color: #dc3545; 
+}
+
+.clock-base {
+    font-family: 'Roboto', sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    color:green;
+    text-align: center;
+    position: absolute;
+    display: inline !important;
+    z-index: 9999;
+    margin-left: 65%;
+    margin-top: 21%;
+
+}
+
+.clock-base-dot {
+    font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    color:green;
+    text-align: center;
+    position: absolute;
+    display: inline !important;
+    z-index: 9998;
+    margin-left: 98%;
+    margin-top: 21%;
+}
+
+.duration-animation {
+    --animate-duration: 5s;
+}
+
+.clock-vector{
+    width: 80%; 
+    position: absolute;
+    margin-top:10%;
+    margin-left: 50%;
+}
+
+.clock-container {
+    background-color: yellow;
+    width: 10px;
+    position: relative;
+}
+
+.clock-nb {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    color:green;
+    text-align: center;
+    position: absolute;
+    display: inline !important;
+    z-index: 9999;
+    margin-left: 20%;
+    margin-bottom: 1%;
+}
+
+.clock-nb-first {
+    font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    color:green;
+    text-align: center;
+    position: absolute;
+    display: inline !important;
+    z-index: 9999;
+    margin-left: 68%;
+    margin-bottom: 1%;
+    margin-top: 22%;
+}
+
+.clock-nb-last {
+    font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    color:green;
+    text-align: center;
+    position: absolute;
+    display: inline !important;
+    z-index: 9999;
+    right: -35%;
+    margin-bottom: 1%;
+    margin-top: 22%;
+}
